@@ -8,17 +8,17 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: main title                          # the main title
+title: AI                         # the main title
 
-tagline: sub-title  # it will display as the sub-title
+tagline: abooundev  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  description
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://abooundev.github.io'
 
-author: your_full_name                  # change to your full name
+author: abooundev                  # change to your full name
 
 avatar: /assets/img/sample/leaf2.jpg   # support internet resources -> avatar.jpg
 
