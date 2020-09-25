@@ -120,12 +120,12 @@ $sidebar-display: "sidebar-display";
     height: $tab-height;
     &:hover {
       .nav-link {
-        color: #f8f9facf;
+        color: #ec1414; /*#f8f9facf*/
       }
     }
     &.active {
       .nav-link {
-        color: #fcfcfc;
+        color: #0d5f21; /*#fcfcfc*/
       }
     }
   }
