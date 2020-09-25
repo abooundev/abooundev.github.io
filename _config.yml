@@ -8,21 +8,19 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: main title                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: sub-title  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+ description
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'
 
 author: your_full_name                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/leaf2.jpg   # support internet resources -> avatar.jpg
 
 github:
   username: github_username             # change to your github username
@@ -51,7 +49,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul # Asia/Shanghai
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
