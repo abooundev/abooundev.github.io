@@ -1,11 +1,7 @@
-----
-
+---
 title: "Training decoder with teacher forcing"
-
 date: 2020-10-11
-
 math: true
-
 ---
 
 
